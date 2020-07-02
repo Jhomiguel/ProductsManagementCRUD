@@ -1,0 +1,19 @@
+{
+  "productos": [
+    {
+      "nombre": "Rib eyee",
+      "precio": "500",
+      "id": 1
+    },
+    {
+      "nombre": "tequila",
+      "precio": 400,
+      "id": 2
+    },
+    {
+      "nombre": "dasd",
+      "precio": 300,
+      "id": 3
+    }
+  ]
+}
